@@ -410,6 +410,26 @@ After completing this project, you will understand:
 
 If you found this project helpful, consider giving it a ⭐ on GitHub!
 
+## Python Tuples
+
+### Concepts Covered
+- Tuple creation
+- Indexing and slicing
+- Nested tuples
+- Concatenation and repetition
+- `count()` and `index()` methods
+- Tuple unpacking
+- List ↔ Tuple conversion
+- Tuples with strings, dictionaries, and sets
+- Nested tuple iteration
+
+### Learning Outcomes
+- Understand tuple operations and immutability.
+- Access and manipulate tuple elements.
+- Convert between tuples, lists, strings, and sets.
+- Use tuples as dictionary keys.
+- Iterate through nested tuples effectively.
+
 
 
 
