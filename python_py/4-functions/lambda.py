@@ -18,3 +18,5 @@ square = list(map(lambda x:x**2,n))
 print(square)
 
 
+
+
