@@ -46,3 +46,26 @@
 * Check conditions efficiently with lambda functions.
 * Use `map()` to apply operations to all elements of an iterable.
 * Write cleaner and more concise Python code for simple tasks.
+
+* #3. Python `map()` Function
+
+## 📌 Concepts Covered
+
+* Using `map()` with a user-defined function
+* Using `map()` with lambda functions
+* Mapping over multiple iterables
+* Converting strings to integers using `map()`
+* Applying built-in functions (`int`, `str.upper`)
+* Processing lists of dictionaries with `map()`
+* Converting the `map` object into a list using `list()`
+
+## 📚 Learning Outcomes
+
+* Understand how the `map()` function transforms iterable elements.
+* Apply user-defined and lambda functions to collections.
+* Process multiple iterables simultaneously with `map()`.
+* Convert data types efficiently using built-in functions.
+* Perform string transformations such as converting to uppercase.
+* Extract specific values from complex data structures like dictionaries.
+* Write cleaner and more efficient data-processing code.
+
