@@ -1,5 +1,5 @@
 
-# Python Functions - Mini Utility Programs
+#1. Python Functions - Mini Utility Programs
 
 ## 📌 Concepts Covered
 
@@ -24,3 +24,25 @@
 * Use string manipulation techniques for data processing.
 * Check whether a string is a palindrome efficiently.
 * Improve problem-solving skills using Python functions.
+
+# 2.Lambda Functions in Python
+
+## 📌 Concepts Covered
+
+* Introduction to Lambda (Anonymous) Functions
+* Lambda syntax (`lambda arguments: expression`)
+* Adding two numbers using a lambda function
+* Checking whether a number is even
+* Adding three numbers using a lambda function
+* Using `map()` with lambda functions
+* Applying a function to every element in a list
+* Converting a `map` object into a list using `list()`
+
+## 📚 Learning Outcomes
+
+* Understand the syntax and purpose of lambda functions.
+* Create small, one-line anonymous functions.
+* Perform arithmetic operations using lambda expressions.
+* Check conditions efficiently with lambda functions.
+* Use `map()` to apply operations to all elements of an iterable.
+* Write cleaner and more concise Python code for simple tasks.
