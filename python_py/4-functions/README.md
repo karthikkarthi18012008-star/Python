@@ -47,7 +47,7 @@
 * Use `map()` to apply operations to all elements of an iterable.
 * Write cleaner and more concise Python code for simple tasks.
 
-* #3. Python `map()` Function
+*** #3. Python `map()` Function**
 
 ## 📌 Concepts Covered
 
@@ -68,4 +68,26 @@
 * Perform string transformations such as converting to uppercase.
 * Extract specific values from complex data structures like dictionaries.
 * Write cleaner and more efficient data-processing code.
+* 
+4.
+# Python `filter()` Function
+
+## 📌 Concepts Covered
+
+* Using `filter()` with a user-defined function
+* Using `filter()` with lambda functions
+* Filtering even numbers from a list
+* Filtering values based on comparison conditions
+* Applying multiple conditions in `filter()`
+* Filtering lists of dictionaries
+* Converting the `filter` object into a list using `list()`
+
+## 📚 Learning Outcomes
+
+* Understand how the `filter()` function selects elements based on a condition.
+* Use user-defined functions and lambda expressions with `filter()`.
+* Apply single and multiple filtering conditions efficiently.
+* Filter numerical data such as even numbers and values greater than a threshold.
+* Filter complex data structures like lists of dictionaries.
+* Write concise and readable code for data filtering tasks.
 
