@@ -50,3 +50,27 @@
 * Compare the advantages, disadvantages, and use cases of both balancing techniques.
 * Prepare datasets for building more reliable and unbiased machine learning models.
 
+# SMOTE (Synthetic Minority Oversampling Technique)
+
+## 📌 Concepts Covered
+
+* Creating a synthetic classification dataset using `make_classification()`
+* Understanding class imbalance with the `weights` parameter
+* Creating feature and target DataFrames using Pandas
+* Combining DataFrames using `pd.concat()`
+* Visualizing imbalanced data using `matplotlib.pyplot.scatter()`
+* Applying **SMOTE** using `imblearn.over_sampling.SMOTE`
+* Generating synthetic minority class samples with `fit_resample()`
+* Converting resampled data into a DataFrame
+* Visualizing the balanced dataset after SMOTE
+* Comparing class distribution before and after SMOTE
+
+## 📚 Learning Outcomes
+
+* Understand how to generate an imbalanced dataset for machine learning experiments.
+* Learn the purpose and working of **SMOTE** for handling class imbalance.
+* Balance minority and majority classes without simply duplicating samples.
+* Visualize the effect of SMOTE on the dataset.
+* Use `fit_resample()` to generate synthetic samples and create a balanced dataset.
+* Prepare datasets for building more accurate and unbiased classification models.
+* Gain practical experience with one of the most widely used imbalance handling techniques in machine learning.
